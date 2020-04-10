@@ -1,1 +1,2 @@
 # subconverter_ini
+自用subconverter配置文件，由ACL4SSR修改而来，并去掉url-test，有普通和去广告版
